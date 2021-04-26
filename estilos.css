@@ -1,3 +1,35 @@
-p {
-    color: blue;
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    height: 15%;
+    background: #DAE8FC;
+    border: 2px solid #6E8EBF;
+}
+
+main {
+    height: 75%;
+}
+
+section#primero {
+    height: 66.66%;
+    background: #fff2cc;
+    border: 2px solid #D6B656;
+}
+
+section.segundo {
+    height: 33.34%;
+    background: #F8CECC;
+    border: 2px solid #B85450;
+}
+
+footer {
+    height: 10%;
+    background: #D5E8D4;
+    border: 2px solid #82B366;
 }
